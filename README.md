@@ -2,10 +2,10 @@
 This project is a Python-based Sudoku solver that employs the backtracking algorithm. Sudoku is a popular number-placement puzzle where the goal is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 sub-grids contain all of the digits from 1 to 9.
 # Features:
 
--Backtracking Algorithm: Utilizes a recursive backtracking approach to efficiently solve Sudoku puzzles of varying difficulties.
--User-friendly Interface: Provides an intuitive interface for users to input puzzles and view solutions.
-Efficient Solution: The solver efficiently explores possible solutions, significantly reducing computation time.
-Validations: Ensures that the input Sudoku puzzle is valid before attempting to solve it.
+*Backtracking Algorithm: Utilizes a recursive backtracking approach to efficiently solve Sudoku puzzles of varying difficulties.
+*User-friendly Interface: Provides an intuitive interface for users to input puzzles and view solutions.
+*Efficient Solution: The solver efficiently explores possible solutions, significantly reducing computation time.
+*Validations: Ensures that the input Sudoku puzzle is valid before attempting to solve it.
 
 # Usage:
 Clone the repository to your local machine.
